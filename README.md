@@ -3,7 +3,7 @@
 
 
 
-Right now, I do a lot of research on Virtual Reality (VR) and Augmented Reality (AR) and whether people learn better through these technologies that traditional museum displays. This [article](https://www.aam-us.org/2020/06/15/towards-frictionless-augmented-reality/) summarizes my thoughts on how we can make AR more accesible for museum patrons.
+Right now, I do a lot of research on Virtual Reality (VR) and Augmented Reality (AR) and whether people learn better through these technologies than traditional museum displays. This [article](https://www.aam-us.org/2020/06/15/towards-frictionless-augmented-reality/) summarizes my thoughts on how we can make AR more accesible for museum patrons.
 
 
 
@@ -34,7 +34,7 @@ You should try out [`mallorn`](https://github.com/MegaPast2Future/mallorn), my R
 -----------------------
 
 
-#### Are you looking the largest database of phylogenies, ranges, and trait data for mammals?
+#### Are you looking the largest database of phylogenies, ranges, and functional traits for mammals?
 ![PHYLACINE](./Docs/PHYLACINE_logo_small.png)
 
 You should check out the latest stable version of [PHYLACINE](https://github.com/MegaPast2Future/PHYLACINE_1.2/): The Phylogenetic Atlas of Mammal Macroecology.
@@ -43,7 +43,7 @@ You should check out the latest stable version of [PHYLACINE](https://github.com
 -----------------------
 
 
-#### Are you looking for functional traits of all large-bodied, terrestrial, avian and mammalian herbivores that lived during the last 130,000 years?
+#### Are you looking for functional traits for all large-bodied, terrestrial, avian and mammalian herbivores that lived during the last 130,000 years?
 ![HerbiTraits](./Docs/HerbiTraits_Logo.png)
 
 You should check out the latest stable version of [HerbiTraits](https://github.com/MegaPast2Future/HerbiTraits), a database lead by my former PhD students.

@@ -35,6 +35,14 @@ You should try out [`mallorn`](https://github.com/MegaPast2Future/mallorn), my R
 -----------------------
 
 
+### Need to incorporate categorical or ordinal data into quantitative distance matrices? 
+
+Read my suggestions and warnings in this [paper](https://www.biorxiv.org/content/10.1101/2021.11.02.466687v1) first. (It also has a handy table of all the different ways you can calculate Gower's distance on ordinal data in R)
+
+
+-----------------------
+
+
 ### Are you looking for the largest database of phylogenies, ranges, and functional traits for mammals?
 ![PHYLACINE](./Docs/PHYLACINE_logo_small.png)
 
@@ -48,7 +56,6 @@ You should check out the latest stable version of [PHYLACINE](https://github.com
 ![HerbiTraits](./Docs/HerbiTraits_Logo.png)
 
 You should check out the latest stable version of [HerbiTraits](https://github.com/MegaPast2Future/HerbiTraits), a database led by my former PhD students.
-
 
 
 

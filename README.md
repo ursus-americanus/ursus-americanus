@@ -11,7 +11,7 @@ Right now, I do a lot of research on Virtual Reality (VR) and Augmented Reality 
 
 
 # Research
-Find my research publications on [Google Scholar](https://scholar.google.com/citations?user=hx6r5z0AAAAJ&hl=en&oi=ao). 
+Find my research publications on [Google Scholar](https://scholar.google.com/citations?user=hx6r5z0AAAAJ&hl=en&oi=ao). The code for any paper where I am the lead author is publicly archived with that paper's Supplemental Information (SI).
 
 
 
@@ -20,7 +20,7 @@ Find my research publications on [Google Scholar](https://scholar.google.com/cit
 ### Are you looking for a virtual Ice Age friend? 
 ![Snapcodes](./Docs/Snapcodes.png)
 
-Try out these Snapcodes of AR fossils animals I helped build. 
+Try out these Snapcodes of AR fossil animals I helped build. Stay tuned for a forthcoming paper describing how to create scientifically accurate paleoart models in AR. 
 
  
 -----------------------
@@ -29,13 +29,13 @@ Try out these Snapcodes of AR fossils animals I helped build.
 ### Are you looking for phylogenetic analysis software that can incorporate continuous probabilities of species occurence?
 ![mallorn](./Docs/mallorn_logo_small.png)
 
-You should try out [`mallorn`](https://github.com/MegaPast2Future/mallorn), my R package for calculating phylogenetic diversity metrics.
+You should try out [`mallorn`](https://github.com/MegaPast2Future/mallorn), my R package for calculating phylogenetic diversity metrics. (While it was designed for biological research, [`mallorn`](https://github.com/MegaPast2Future/mallorn) should technically work on any kind of hierarchical clustering dendrogram to probabilistically assign edge lengths to tips ...as long as the cophenetic distance between tips has real world meaning) 
 
 
 -----------------------
 
 
-### Need to incorporate categorical or ordinal data into quantitative distance matrices? 
+### Need to incorporate categorical or ordinal data into quantitative distance matrices for clustering or ordination? 
 
 Read my suggestions and warnings in this [paper](https://www.biorxiv.org/content/10.1101/2021.11.02.466687v1) first. (It also has a handy table of all the different ways you can calculate Gower's distance on ordinal data in R)
 

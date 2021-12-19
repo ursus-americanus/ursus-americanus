@@ -11,7 +11,8 @@ Right now, I do a lot of research on Virtual Reality (VR) and Augmented Reality 
 
 
 # Research
-Find my research publications on [Google Scholar](https://scholar.google.com/citations?user=hx6r5z0AAAAJ&hl=en&oi=ao). The code for any paper where I am the lead author is publicly archived with that paper's Supplemental Information (SI).
+Find my research publications on [Google Scholar](https://scholar.google.com/citations?user=hx6r5z0AAAAJ&hl=en&oi=ao). The code for any paper where I am the lead author is publicly archived with that paper's Supplemental Information under a DOI like this [doi.org/10.5281/zenodo.1286876](doi.org/10.5281/zenodo.1286876).
+
 
 
 
@@ -29,7 +30,11 @@ Try out these Snapcodes of AR fossil animals I helped build. Stay tuned for a fo
 ### Are you looking for phylogenetic analysis software that can incorporate continuous probabilities of species occurence?
 ![mallorn](./Docs/mallorn_logo_small.png)
 
-You should try out [`mallorn`](https://github.com/MegaPast2Future/mallorn), my R package for calculating phylogenetic diversity metrics. (While it was designed for biological research, [`mallorn`](https://github.com/MegaPast2Future/mallorn) should technically work on any kind of hierarchical clustering dendrogram to probabilistically assign edge lengths to tips ...as long as the cophenetic distance between tips has real world meaning) 
+You should try out [`mallorn`](https://github.com/MegaPast2Future/mallorn), my R package for calculating phylogenetic diversity metrics I developed like expected evolutionary distinctiveness (expected ED):
+
+![expected ed](./Docs/Expected_ED.png)
+
+While it was designed for biological research, [`mallorn`](https://github.com/MegaPast2Future/mallorn) should technically work on any kind of hierarchical clustering dendrogram to probabilistically assign edge lengths to tips ...as long as the cophenetic distance between tips has real world meaning. 
 
 
 -----------------------

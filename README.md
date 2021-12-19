@@ -11,7 +11,7 @@ Right now, I do a lot of research on Virtual Reality (VR) and Augmented Reality 
 
 
 # Research
-Find my research publications on [Google Scholar](https://scholar.google.com/citations?user=hx6r5z0AAAAJ&hl=en&oi=ao). The code for any paper where I am the lead author is publicly archived with that paper's Supplemental Information under a DOI like this [doi.org/10.5281/zenodo.1286876](doi.org/10.5281/zenodo.1286876).
+Find my research publications on [Google Scholar](https://scholar.google.com/citations?user=hx6r5z0AAAAJ&hl=en&oi=ao). The code for any paper where I am the lead author is publicly archived with that paper's Supplemental Information under a DOI like this: [doi.org/10.5281/zenodo.1286876](doi.org/10.5281/zenodo.1286876).
 
 
 
@@ -30,11 +30,11 @@ Try out these Snapcodes of AR fossil animals I helped build. Stay tuned for a fo
 ### Are you looking for phylogenetic analysis software that can incorporate continuous probabilities of species occurence?
 ![mallorn](./Docs/mallorn_logo_small.png)
 
-You should try out [`mallorn`](https://github.com/MegaPast2Future/mallorn), my R package for calculating phylogenetic diversity metrics I developed like expected evolutionary distinctiveness (expected ED):
+You should try out [`mallorn`](https://github.com/MegaPast2Future/mallorn), my R package for calculating phylogenetic diversity metrics I developed such as expected evolutionary distinctiveness (expected ED):
 
 ![expected ed](./Docs/Expected_ED.png)
 
-While it was designed for biological research, [`mallorn`](https://github.com/MegaPast2Future/mallorn) should technically work on any kind of hierarchical clustering dendrogram to probabilistically assign edge lengths to tips ...as long as the cophenetic distance between tips has real world meaning. 
+While it was designed for biological research, [`mallorn`](https://github.com/MegaPast2Future/mallorn) should technically work on any kind of hierarchical clustering dendrogram to probabilistically assign edge lengths to tips ...as long as the cophenetic distance between tips has real world meaning. Find more details in the [Supplement](https://www.pnas.org/content/pnas/suppl/2018/10/09/1804906115.DCSupplemental/pnas.1804906115.sapp.pdf) to [this paper](https://www.pnas.org/content/115/44/11262). 
 
 
 -----------------------

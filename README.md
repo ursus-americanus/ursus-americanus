@@ -11,7 +11,10 @@ Right now, I do a lot of research on Virtual Reality (VR) and Augmented Reality 
 
 
 # Research
-Find my research publications on [Google Scholar](https://scholar.google.com/citations?user=hx6r5z0AAAAJ&hl=en&oi=ao). The code for any paper where I am the lead author is publicly archived with that paper's Supplemental Information under a DOI like this: [doi.org/10.5281/zenodo.1286876](doi.org/10.5281/zenodo.1286876).
+
+![Ecology and Evolution cover](./Docs/Ecology_and_Evolution_cover_small.png)               ![PNAS cover](./Docs/PNAS_cover_small.png)
+
+Find my award winning research publications on [Google Scholar](https://scholar.google.com/citations?user=hx6r5z0AAAAJ&hl=en&oi=ao). My papers are in the top 5th percentile of research tracked by Altmetric. Some, like my cover articles for [*Ecology and Evolution*](https://doi.org/10.1002/ece3.2054) and [*PNAS*](https://doi.org/10.1073/pnas.1804906115), are within the most discussed 1% of articles in their respective journals. Check out [*The New York Times*](https://www.nytimes.com/2016/02/04/science/explorers-club-mammoth-dinner.html?rref=collection/sectioncollection/science&action=click&contentCollection=science&region=rank&module=package&version=highlights&contentPlacement=1&pgtype=sectionfront&_r=0), [*The Atlantic*](https://www.theatlantic.com/science/archive/2018/10/mammals-will-need-millions-years-recover-us/573031/), [*Popular Science*](https://www.popsci.com/story/animals/escobars-invasive-hippos/), or [BBC](https://www.bbc.co.uk/newsround/60618249) for a sampling of the kind of press coverage my research usually gets. The code for any paper where I am the lead author is publicly archived with that paper's Supplemental Information under a DOI like this: [doi.org/10.5281/zenodo.1286876](doi.org/10.5281/zenodo.1286876).
 
 
 
@@ -21,7 +24,7 @@ Find my research publications on [Google Scholar](https://scholar.google.com/cit
 ### Are you looking for a virtual Ice Age friend? 
 ![Snapcodes](./Docs/Snapcodes.png)
 
-Try out these Snapcodes of AR fossil animals I helped build. Stay tuned for a forthcoming paper describing how to create scientifically accurate paleoart models in AR. 
+Try out these Snapcodes of AR fossil animals I helped build or check out even more [freely downloadable models](https://skfb.ly/osVxM). Check out [this  paper](https://doi.org/10.26879/1191) if you want to learn more about the science, tech, and art behind these AR models. 
 
  
 -----------------------

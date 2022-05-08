@@ -4,7 +4,7 @@
 
 
 
-Right now, I do a lot of research on Virtual Reality (VR) and Augmented Reality (AR) and whether people learn better through these technologies than they do through traditional museum displays. This [article](https://www.aam-us.org/2020/06/15/towards-frictionless-augmented-reality/) summarizes my thoughts on how we can make AR more accesible for museum patrons.
+Right now, I do a lot of research on Virtual Reality (VR) and Augmented Reality (AR) and whether people learn better through these technologies than they do through traditional museum displays. This [article](https://www.aam-us.org/2020/06/15/towards-frictionless-augmented-reality/) summarizes my thoughts on how we can make AR more accesible for museum patrons. Besides this research, I also curate immersive museum exhibitions like [*L.A. Underwater*](https://nhm.org/la-underwater) that use art to help people understand science. 
 
 
 ![Shasta](./Docs/Shasta_ground_sloth.gif)

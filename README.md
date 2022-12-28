@@ -24,7 +24,7 @@ Find my award winning research publications on [Google Scholar](https://scholar.
 ### Are you looking for a virtual Ice Age friend? 
 ![Snapcodes](./Docs/Snapcodes.png)
 
-Try out these Snapcodes of AR fossil animals I helped build or check out even more [freely downloadable models](https://skfb.ly/osVxM). Check out [this  paper](https://doi.org/10.26879/1191) if you want to learn more about the science, tech, and art behind these AR models. 
+Try out these Snapcodes of AR fossil animals I helped build or check out even more [freely downloadable models](https://skfb.ly/osVxM). Read [this  academic paper](https://doi.org/10.26879/1191) or [this invited article](https://sketchfab.com/blogs/community/forging-a-3d-paleoart-pipeline-with-sketchfab/) if you want to learn more about the science, tech, and art behind these AR models. 
 
  
 -----------------------

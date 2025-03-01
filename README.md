@@ -4,7 +4,7 @@
 
 
 
-Right now, I do a lot of research on Virtual Reality (VR) and Augmented Reality (AR) and whether people learn better through these technologies than they do through traditional museum displays. This [article](https://www.aam-us.org/2020/06/15/towards-frictionless-augmented-reality/) summarizes my thoughts on how we can make AR more accesible for museum patrons. Besides this research, I also curate immersive museum exhibitions like [*L.A. Underwater*](https://nhm.org/la-underwater) that use art to help people understand science. 
+Right now, I do a lot of research on Virtual Reality (VR) and Augmented Reality (AR) and whether people learn better through these technologies than they do through traditional museum displays. This [article](https://www.aam-us.org/2020/06/15/towards-frictionless-augmented-reality/) summarizes my thoughts on how we can make AR more accesible for museum patrons. Besides this research, I also curate immersive museum exhibitions like [*L.A. Underwater*](https://www.welikela.com/new-at-nhm-l-a-underwater) and [*Reframing Dioramas*](https://www.sciencenews.org/article/science-museum-dioramas-displays) that use art to help people understand science.  
 
 
 ![Shasta](./Docs/Shasta_ground_sloth.gif)
@@ -12,9 +12,9 @@ Right now, I do a lot of research on Virtual Reality (VR) and Augmented Reality 
 
 # Research
 
-![Ecology and Evolution cover](./Docs/Ecology_and_Evolution_cover_small.png)               ![PNAS cover](./Docs/PNAS_cover_small.png)
+![Ecology and Evolution cover](./Docs/Ecology_and_Evolution_cover_small.png)               ![PNAS cover](./Docs/PNAS_cover_small.png)         ![Book covers](./Docs/Boooks.jpg)
 
-Find my award winning research publications on [Google Scholar](https://scholar.google.com/citations?user=hx6r5z0AAAAJ&hl=en&oi=ao). My papers are in the top 5th percentile of research tracked by Altmetric. Some, like my cover articles for [*Ecology and Evolution*](https://doi.org/10.1002/ece3.2054) and [*PNAS*](https://doi.org/10.1073/pnas.1804906115), are within the most discussed 1% of articles in their respective journals. Check out [*The New York Times*](https://www.nytimes.com/2016/02/04/science/explorers-club-mammoth-dinner.html?rref=collection/sectioncollection/science&action=click&contentCollection=science&region=rank&module=package&version=highlights&contentPlacement=1&pgtype=sectionfront&_r=0), [*The Atlantic*](https://www.theatlantic.com/science/archive/2018/10/mammals-will-need-millions-years-recover-us/573031/), [*Popular Science*](https://www.popsci.com/story/animals/escobars-invasive-hippos/), or [BBC](https://www.bbc.co.uk/newsround/60618249) for a sampling of the kind of press coverage my research usually gets. Most of my research is pretty data science heavy; you can find the code for any paper I led publicly archived with that paper's Supplemental Information under a DOI like this: [doi.org/10.5281/zenodo.1286876](doi.org/10.5281/zenodo.1286876).
+My latest book [*Fabricating Wilderness*](https://www.amazon.com/Fabricating-Wilderness-Habitat-Dioramas-Natural/dp/1646570405) is available wherever books are sold. Find my award winning research publications on [Google Scholar](https://scholar.google.com/citations?user=hx6r5z0AAAAJ&hl=en&oi=ao). My papers are in the top 5th percentile of research tracked by Altmetric. Some, like my cover articles for [*Ecology and Evolution*](https://doi.org/10.1002/ece3.2054) and [*PNAS*](https://doi.org/10.1073/pnas.1804906115), are within the most discussed 1% of articles in their respective journals. Check out [*The New York Times*](https://www.nytimes.com/2016/02/04/science/explorers-club-mammoth-dinner.html?rref=collection/sectioncollection/science&action=click&contentCollection=science&region=rank&module=package&version=highlights&contentPlacement=1&pgtype=sectionfront&_r=0), [*The Atlantic*](https://www.theatlantic.com/science/archive/2018/10/mammals-will-need-millions-years-recover-us/573031/), [*Popular Science*](https://www.popsci.com/story/animals/escobars-invasive-hippos/), or [BBC](https://www.bbc.co.uk/newsround/60618249) for a sampling of the kind of press coverage my research usually gets. Most of my research is pretty data science heavy; you can find the code for any paper I led publicly archived with that paper's Supplemental Information under a DOI like this: [doi.org/10.5281/zenodo.1286876](doi.org/10.5281/zenodo.1286876).
 
 
 
@@ -24,7 +24,7 @@ Find my award winning research publications on [Google Scholar](https://scholar.
 ### Are you looking for a virtual Ice Age friend? 
 ![Snapcodes](./Docs/Snapcodes.png)
 
-Try out these Snapcodes of AR fossil animals I helped build or check out even more [freely downloadable models](https://skfb.ly/osVxM). Read [this  academic paper](https://doi.org/10.26879/1191) or [this invited article](https://sketchfab.com/blogs/community/forging-a-3d-paleoart-pipeline-with-sketchfab/) if you want to learn more about the science, tech, and art behind these AR models. 
+Try out these Snapcodes of AR fossil animals I helped build or check out even more [freely downloadable models](https://skfb.ly/osVxM). Read [this  academic paper](https://doi.org/10.26879/1191) or [this invited article]([https://sketchfab.com/blogs/community/forging-a-3d-paleoart-pipeline-with-sketchfab/](https://web.archive.org/web/20230325094502/https://sketchfab.com/blogs/community/forging-a-3d-paleoart-pipeline-with-sketchfab/)) if you want to learn more about the science, tech, and art behind these AR models. 
 
  
 -----------------------
